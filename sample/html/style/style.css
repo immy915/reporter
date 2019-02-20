@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding 0;
+}
+
+header {
+    background-color: #3c3;
+}
+
+header h1 {
+    display: inline-block;
+    color: #fff;
+    margin: 10px;
+}
+
+span.btn {
+    float: right;
+    border: solid 1px #fff;
+    border-radius: 3px;
+    padding: 2px;
+    margin: 5px;
+    background-color: #fff;
+}
+
+span.btn a {
+    text-decoration: none;
+    color: #3c3;
+}
+
+span.btn:hover {
+    transform: translate3d(0, 3px, 0);
+}
+
+nav {
+    float: left;
+    background-color: #9c6;
+}
+
+section.wrap {
+    background-color: #cf6;
+}
