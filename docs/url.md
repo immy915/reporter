@@ -1,0 +1,23 @@
+# URL設計
+
+- ./
+    - common/
+        - header
+        - footer
+        - menu
+    - index
+    - agreement
+    - bookmark
+    - edit
+    - edit-account
+    - faq
+    - inquiry
+    - login
+    - mypage
+    - new-report
+    - pass-reissue
+    - readme
+    - reissue
+    - report
+    - search
+    - violation-report
